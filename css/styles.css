@@ -1,0 +1,61 @@
+body {
+  background-color: #FFDCAE;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  color: #76BA99;
+}
+
+div {
+  background-color: #FFDCAE;
+  color: #76BA99;
+}
+
+.topContainer {
+  height: 600px;
+  background-color: #CED89E;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.middleContainer {
+  background-color: #FFDCAE;
+  color: #76BA99;
+
+}
+
+.bottomContainer {
+  background-color: #FFDCAE;
+  color: #76BA99;
+}
+
+h1 {
+  font-size: 562%;
+  margin-top: 0;
+  font-family: "Sacramento";
+
+}
+h2 {
+  font-family: "Montserrat";
+}
+h3 {
+  font-family: "Montserrat";
+}
+
+
+.mountain {
+}
+
+.topcloud{
+  position: absolute;
+  left: 60%;
+  top: 5%;
+}
+
+.bottomcloud{
+  position: absolute;
+}
+.Friedrich {
+  border-radius: 50%;
+  background-color: "white";
+}
